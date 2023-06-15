@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     Rigidbody2D _objRb;
     float _vertical;
     float _horizontal;
-    float speed = 8f;
+    float speed = 20f;
     private const float speedMultiplier = 20f;
     private void Start()
     {
